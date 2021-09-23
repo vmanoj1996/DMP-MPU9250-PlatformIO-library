@@ -9,4 +9,4 @@ Sparkfun's Arduino library was customized for Mbed by Oğuz Özdemir https://os.
 uses Invensense motion driver 6.1. 
 
 **Note**:
-Invensense driver has delay functions in it. Not to be used for real time & safety critical applications.
+Invensense driver has delay functions in it. 
